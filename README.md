@@ -9,7 +9,13 @@ The key steps to build the app
 5. Display Marvel Data
 6. Implement Search Functionality
 7.Handle Errors and Edge Cases
+
+
+![image](https://github.com/AlinaAga06/Bluescipt-Assignment2/assets/141228720/5030a6a0-7443-4d26-8748-499b5f3a241b)
+
+
  
+
 
 
 
