@@ -4,7 +4,7 @@ import { initialOffset } from '../helpers'
 
 export const useMarvelService = () => {
   const _apiBase = 'https://gateway.marvel.com:443/v1/public/'
-  const _apiKey = 'apikey=20b7dfb520207205b3f0ab6bcd6d77ff'
+  const _apiKey = 'apikey=59993b8a54ea62496c7e4d952b49d916'
   const _offset = initialOffset
 
   const { loading, error, request, clearError, cancelRequest } = useHttp()
